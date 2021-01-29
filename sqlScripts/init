@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS person
+(
+	id_person INTEGER,
+	fname TEXT,
+	lname TEXT,
+	age	INTEGER,
+	address TEXT
+);
+

@@ -1,0 +1,16 @@
+INSERT INTO person
+(   id_person,
+	fname ,
+	lname ,
+	age	,
+	address 
+)
+
+VALUES
+(
+    1,
+    "ivan",
+    "ivanov",
+    25,
+    "null"
+);
